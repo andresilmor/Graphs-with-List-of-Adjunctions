@@ -1,0 +1,73 @@
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\documentos\SharpDevelop Projects\P3Meus\CompletosV5\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Imagens\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\copia segurança\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Ambiente de Trabalho\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\Meus Documentos\PC\Transferências\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojAssemblyReference.cache
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.cache
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.CoreCompileInputs.cache
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\MinhaPasta\Escola\2º Ano\Programação III\Exercicios\_Trabalhos\TrabalhoPraticoN3_André Moreira a38978\TrabalhoPraticoN3_André Moreira a38978\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
